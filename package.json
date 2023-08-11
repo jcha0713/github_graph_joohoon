@@ -1,0 +1,14 @@
+{
+  "name": "github_graph_joohoon",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "start": "bun run index.ts"
+  },
+  "devDependencies": {
+    "bun-types": "^0.7.3"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
